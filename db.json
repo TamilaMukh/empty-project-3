@@ -1,0 +1,158 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Смартфон Apple iPhone 11 128GB Black",
+        "article": "228942",
+        "price": "404 990",
+        "year": "2019",
+        "diagonal": "6.1",
+        "resolution": "828x1792",
+        "matrix": "Liquid Retina HD",
+        "ram": "4",
+        "hard": "128",
+        "images": [
+            {
+                "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F228942_1.jpg&w=828&q=85",
+                "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F228942_2.jpg&w=828&q=85",
+                "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F228942_3.jpg&w=828&q=85"
+            }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Смартфон Apple iPhone 13 128GB Blue",
+        "article": "252949",
+        "price": "559 990",
+        "year": "2021",
+        "diagonal": "6.1",
+        "resolution": "2532x1170",
+        "matrix": "Super Retina XDR",
+        "ram": "4",
+        "hard": "128",
+        "images": [
+            {
+                "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252949_1.jpg&w=828&q=85",
+                "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252949_2.jpg&w=828&q=85",
+                "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252949_3.jpg&w=828&q=85"
+            }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Смартфон Apple iPhone 13 128GB Midnight",
+        "article": "252945",
+        "price": "559 990",
+        "year": "2021",
+        "diagonal": "6.1",
+        "resolution": "2532x1170",
+        "matrix": "Super Retina XDR",
+        "ram": "4",
+        "hard": "128",
+        "images": [
+            {
+                "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252945_1.jpg&w=828&q=85",
+                "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252945_2.jpg&w=828&q=85",
+                "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252945_3.jpg&w=828&q=85"
+            }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Смартфон Apple iPhone 11 64GB Black",
+        "article": "228936",
+        "price": "369 990",
+        "year": "2019",
+        "diagonal": "6.1",
+        "resolution": "2778x1284",
+        "matrix": "Liquid Retina HD",
+        "ram": "4",
+        "hard": "64",
+        "images": [
+            {
+                "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F228936_1.jpg&w=828&q=85",
+                "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F228936_2.jpg&w=828&q=85",
+                "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F228936_3.jpg&w=828&q=85"
+            }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Смартфон Apple iPhone 13 128GB Starlight",
+        "article": "252946",
+        "price": "559 990",
+        "year": "2021",
+        "diagonal": "6.1",
+        "resolution": "2532x1170",
+        "matrix": "Super Retina XDR",
+        "ram": "4",
+        "hard": "128",
+        "images": [
+            {
+                "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252946_1.jpg&w=828&q=85",
+                "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252946_2.jpg&w=828&q=85",
+                "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252946_3.jpg&w=828&q=85"
+            }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Смартфон Apple iPhone 11 128GB White",
+        "article": "228943",
+        "price": "404 990",
+        "year": "2019",
+        "diagonal": "6.1",
+        "resolution": "828x1792",
+        "matrix": "Liquid Retina HD",
+        "ram": "4",
+        "hard": "128",
+        "images": [
+            {
+                "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F228943_1.jpg&w=828&q=85",
+                "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F228943_2.jpg&w=828&q=85",
+                "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F228943_3.jpg&w=828&q=85"
+            }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Смартфон Apple iPhone 11 64GB White",
+        "article": "228937",
+        "price": "369 990",
+        "year": "2019",
+        "diagonal": "6.7",
+        "resolution": "2778x1284",
+        "matrix": "Super Retina XDR",
+        "hz": "120",
+        "ram": "6",
+        "hard": "256",
+        "images": [
+            {
+                "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_1.jpg&w=828&q=85",
+                "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_2.jpg&w=828&q=85",
+                "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_3.jpg&w=828&q=85"
+            }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Смартфон Apple iPhone 13 Pro Max 256GB Sierra Blue",
+        "article": "252998",
+        "price": "899 990",
+        "year": "2021",
+        "diagonal": "6.7",
+        "resolution": "2778x1284",
+        "matrix": "Super Retina XDR",
+        "hz": "120",
+        "ram": "6",
+        "hard": "256",
+        "images": [
+            {
+                "first": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_1.jpg&w=828&q=85",
+                "second": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_2.jpg&w=828&q=85",
+                "third": "https://www.technodom.kz/_next/image?url=https%3A%2F%2Fapi.technodom.kz%2Ff3%2Fapi%2Fv1%2Fimages%2F800%2F800%2F252998_3.jpg&w=828&q=85"
+            }
+        ]
+      }
+    ]
+  }

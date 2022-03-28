@@ -62,16 +62,9 @@
                 </div>
                 <div>
                 </div>
-                
             </div> 
         </div>
-        <i><b><s><u>gorilla</u></s></b></i>         
+        <!-- <i><b><s><u>gorilla</u></s></b></i> -->
     </div>
 </template>
 
-<script>
-
-export default {
-    name: 'NavbarComp'
-}
-</script>
